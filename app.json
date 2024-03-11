@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "NoteApp",
-    "slug": "NoteApp",
+    "name": "Notion",
+    "slug": "notion",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "assetBundlePatterns": [
@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.abdelrahman121.notion"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e1d4e565-7cc1-4420-b7b6-65dbad06dcdb"
+      }
+    },
+    "owner": "abdelrahman121"
   }
 }
