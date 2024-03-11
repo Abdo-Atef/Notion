@@ -10,6 +10,11 @@ it's a Note App to create and store notes
 - User-friendly UI with a modern design
 - Bottom Navigation Bar for easy navigation between pages
 
+## Screenshots
+
+![shot](https://github.com/Abdo-Atef/Notion/blob/main/assets/app-screens.png)
+
+
 ## Technologies Used
 
 - React Native Expo CLI
