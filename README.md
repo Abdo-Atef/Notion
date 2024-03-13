@@ -12,7 +12,7 @@ it's a Note App to create and store notes
 
 ## Screenshots
 
-![shot](https://github.com/Abdo-Atef/Notion/blob/main/assets/app-screens.png)
+![shot](https://raw.githubusercontent.com/Abdo-Atef/Notion/main/assets/app-screens.png)
 
 
 ## Technologies Used
